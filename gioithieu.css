@@ -1,0 +1,62 @@
+.top{
+    height: 180px;
+    background-image: url(./images/backgroundtop.jpg);
+    padding-top: 15px;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    color: #D71313;
+    
+}
+.caption{
+    
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    color: darkblue;
+}
+.main{
+    background-image: url(./images/background5.png);
+    background-repeat: inherit;
+    
+    
+    
+}
+.nav{
+    font-weight: bold;
+    
+    :hover{
+        background-color: yellow;
+        color: white;
+        padding: 0px;
+    }
+}
+.mucluc{
+    border: 1px dotted;
+    border-radius: 5px;
+    background-color: white;
+    width: 300px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 5px;
+    color: black;
+    :hover{
+        background-color: darkblue;
+        color: white;
+        
+        
+    }
+}
+.dropcap{
+    font-size: 72px;
+    line-height: 36px;
+    float: left;
+    padding: 10px;
+    color: yellow;
+    font-weight: 300px;
+    margin-bottom: 10px;
+}
+.footer{
+    height: 50px;
+    background-image: url(./images/backgroundtop.jpg)
+}
